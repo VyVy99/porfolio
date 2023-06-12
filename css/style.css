@@ -30,6 +30,9 @@ header {
   z-index: 999999;
 }
 
+h1{
+  border: none;
+}
 /* cyber_carousel  */
 .cyber_carousel .carousel-inner {
   height: 100vh;
